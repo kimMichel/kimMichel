@@ -6,6 +6,14 @@
   <a href = "mailto:kim98.michel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+### Hello! Welcome to my profile
+<img style="margin: 0 auto" src="https://media2.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif?cid=ecf05e47ifp3qopbycs5neqr36rpe8ehxmyzs1ln4zxzwqd3&rid=giphy.gif&ct=g" height="200">
+
+
+- 👷 I’m Software Engineer at <a target="_blank" href="https://www.animati.com.br//">Animati</a>
+- 👨‍🏫 I’m Training Instructor at <a target="_blank" href="https://ccea.org.br/">Centro Cultural Escrava Anastácia</a>
+- 🤓 I’m Blogger at <a target="_blank" href="http://devinvestidor.com.br/">devinvestidor</a>
+
 ### About
 
 <div align="center">
