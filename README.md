@@ -8,6 +8,6 @@
 </div>  
 
 ### Welcome to my profile
--  Android Engineer
+-  Android Engineer - Kotlin
 -  Living in São Paulo, Brazil.
   
