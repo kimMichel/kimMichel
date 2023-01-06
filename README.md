@@ -8,6 +8,6 @@
 </div>  
 
 ### Welcome to my profile
--  Android Engineer - Kotlin
+-  Software Developer at <a href="https://www.xds.com.br/" target="_blank">XDS Extended Development Solutions</a>
 -  Living in São Paulo, Brazil.
   
