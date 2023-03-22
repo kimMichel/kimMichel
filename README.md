@@ -8,4 +8,5 @@
 ### Welcome to my profile
 -  Software Developer at <a href="https://www.xds.com.br/" target="_blank">XDS Extended Development Solutions</a>
 -  Living in São Paulo, Brazil.
-  
+-  I'm learning GO
+ 
