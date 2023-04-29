@@ -8,4 +8,3 @@
 ### Welcome to my profile
 -  I'm working at <a href="https://www.xds.com.br/" target="_blank">XDS Extended Development Solutions</a> as a Android Developer.
 -  Living in São Paulo, Brazil.
-- I'm learning Golang
