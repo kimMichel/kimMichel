@@ -6,4 +6,8 @@
 </div>  
 
 ### Welcome to my profile
+
+( Node.js | Javascript | Kotlin )
 -  Living in São Paulo, Brazil.
+
+[![Michel Kim top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kimMichel&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
