@@ -7,7 +7,6 @@
 
 ### Welcome to my profile
 
-( Node.js | Javascript | Typescript | Kotlin )
 -  Living in São Paulo, Brazil.
 
 <div>
