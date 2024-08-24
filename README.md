@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Fullstack Developer based on Brazil<br>Currently building stuffs at NextGen Prospect
 
 
